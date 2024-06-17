@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "422CA43B2AB4A5F400B47842"
-               BuildableName = "macOS-Security"
-               BlueprintName = "macOS-Security"
-               ReferencedContainer = "container:macOS-Security.xcodeproj">
+               BuildableName = "MacHawkEye-engine"
+               BlueprintName = "MacHawkEye-engine"
+               ReferencedContainer = "container:MacHawkEye-engine.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -45,9 +45,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "422CA43B2AB4A5F400B47842"
-            BuildableName = "macOS-Security"
-            BlueprintName = "macOS-Security"
-            ReferencedContainer = "container:macOS-Security.xcodeproj">
+            BuildableName = "MacHawkEye-engine"
+            BlueprintName = "MacHawkEye-engine"
+            ReferencedContainer = "container:MacHawkEye-engine.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <CommandLineArguments>
@@ -79,9 +79,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "422CA43B2AB4A5F400B47842"
-            BuildableName = "macOS-Security"
-            BlueprintName = "macOS-Security"
-            ReferencedContainer = "container:macOS-Security.xcodeproj">
+            BuildableName = "MacHawkEye-engine"
+            BlueprintName = "MacHawkEye-engine"
+            ReferencedContainer = "container:MacHawkEye-engine.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

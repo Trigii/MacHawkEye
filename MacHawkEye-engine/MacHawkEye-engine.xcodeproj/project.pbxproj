@@ -35,7 +35,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		422CA43C2AB4A5F400B47842 /* macOS-Security */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "macOS-Security"; sourceTree = BUILT_PRODUCTS_DIR; };
+		422CA43C2AB4A5F400B47842 /* MacHawkEye-engine */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "MacHawkEye-engine"; sourceTree = BUILT_PRODUCTS_DIR; };
 		422CA43F2AB4A5F400B47842 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		422CA44A2AB4A74600B47842 /* SUGIDModule.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SUGIDModule.h; sourceTree = "<group>"; };
 		422CA44B2AB4A74600B47842 /* ImportsModule.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ImportsModule.h; sourceTree = "<group>"; };
@@ -77,7 +77,7 @@
 		422CA4332AB4A5F400B47842 = {
 			isa = PBXGroup;
 			children = (
-				422CA43E2AB4A5F400B47842 /* macOS-Security */,
+				422CA43E2AB4A5F400B47842 /* MacHawkEye-engine */,
 				422CA43D2AB4A5F400B47842 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -85,12 +85,12 @@
 		422CA43D2AB4A5F400B47842 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				422CA43C2AB4A5F400B47842 /* macOS-Security */,
+				422CA43C2AB4A5F400B47842 /* MacHawkEye-engine */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		422CA43E2AB4A5F400B47842 /* macOS-Security */ = {
+		422CA43E2AB4A5F400B47842 /* MacHawkEye-engine */ = {
 			isa = PBXGroup;
 			children = (
 				422CA4562AB4A74600B47842 /* ACLsModule.h */,
@@ -119,15 +119,15 @@
 				422CA4602AB4B75000B47842 /* XAttrsModule.h */,
 				422CA4612AB4B78500B47842 /* XAttrsModule.m */,
 			);
-			path = "macOS-Security";
+			path = "MacHawkEye-engine";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		422CA43B2AB4A5F400B47842 /* macOS-Security */ = {
+		422CA43B2AB4A5F400B47842 /* MacHawkEye-engine */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 422CA4432AB4A5F400B47842 /* Build configuration list for PBXNativeTarget "macOS-Security" */;
+			buildConfigurationList = 422CA4432AB4A5F400B47842 /* Build configuration list for PBXNativeTarget "MacHawkEye-engine" */;
 			buildPhases = (
 				422CA4382AB4A5F400B47842 /* Sources */,
 				422CA4392AB4A5F400B47842 /* Frameworks */,
@@ -137,9 +137,9 @@
 			);
 			dependencies = (
 			);
-			name = "macOS-Security";
+			name = "MacHawkEye-engine";
 			productName = "macOS-Security";
-			productReference = 422CA43C2AB4A5F400B47842 /* macOS-Security */;
+			productReference = 422CA43C2AB4A5F400B47842 /* MacHawkEye-engine */;
 			productType = "com.apple.product-type.tool";
 		};
 /* End PBXNativeTarget section */
@@ -157,7 +157,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 422CA4372AB4A5F400B47842 /* Build configuration list for PBXProject "macOS-Security" */;
+			buildConfigurationList = 422CA4372AB4A5F400B47842 /* Build configuration list for PBXProject "MacHawkEye-engine" */;
 			compatibilityVersion = "Xcode 14.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -170,7 +170,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				422CA43B2AB4A5F400B47842 /* macOS-Security */,
+				422CA43B2AB4A5F400B47842 /* MacHawkEye-engine */,
 			);
 		};
 /* End PBXProject section */
@@ -340,7 +340,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		422CA4372AB4A5F400B47842 /* Build configuration list for PBXProject "macOS-Security" */ = {
+		422CA4372AB4A5F400B47842 /* Build configuration list for PBXProject "MacHawkEye-engine" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				422CA4412AB4A5F400B47842 /* Debug */,
@@ -349,7 +349,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		422CA4432AB4A5F400B47842 /* Build configuration list for PBXNativeTarget "macOS-Security" */ = {
+		422CA4432AB4A5F400B47842 /* Build configuration list for PBXNativeTarget "MacHawkEye-engine" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				422CA4442AB4A5F400B47842 /* Debug */,
