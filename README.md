@@ -2,6 +2,7 @@
 
 Engine for analyzing binaries on macOS systems to identify potential vulnerabilities
 
+<img width="781" alt="image" src="https://github.com/Trigii/MacHawkEye/assets/17181413/8f0b916a-21e9-41b5-9f84-7cf518853e01">
 
 ## Run the engine
 
