@@ -57,3 +57,5 @@ cd $HOME/Library/Developer/Xcode/DerivedData/MacHawkEye-gui-{RANDOM}
 - Run prebuilt queries or customize your own queries and run them against the DB:
 ![image](https://github.com/Trigii/MacHawkEye/assets/95245480/d8d4a810-a07c-4118-bc61-6ed51840a3fe)
 
+- Visualize the results:
+![image](https://github.com/Trigii/MacHawkEye/assets/95245480/38289aa5-9b8b-47ea-a00e-33c2ae83a682)
