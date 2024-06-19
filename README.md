@@ -1,4 +1,4 @@
-# MacHawkEye
+![image](https://github.com/Trigii/MacHawkEye/assets/95245480/5acdb392-da29-47b6-a2e9-44af5790587d)# MacHawkEye
 
 Engine for analyzing binaries on macOS systems to identify potential vulnerabilities
 
@@ -50,5 +50,10 @@ cd $HOME/Library/Developer/Xcode/DerivedData/MacHawkEye-gui-{RANDOM}
 ./MacHawkEye-gui.app/Contents/MacOS/MacHawkEye-gui
 ```
 ### Usage
-- Enter the path to the generated DB from the engine under the Configuration tab (default is `/tmp/executables.db`)
-- Run prebuilt queries or customize your own queries and run them against the DB
+- Enter the path to the generated DB from the engine under the Configuration tab (default location is `/tmp/executables.db`):
+![image](https://github.com/Trigii/MacHawkEye/assets/95245480/1e6e01bc-fe73-4482-abda-d399b3f37c57)
+
+
+- Run prebuilt queries or customize your own queries and run them against the DB:
+![image](https://github.com/Trigii/MacHawkEye/assets/95245480/d8d4a810-a07c-4118-bc61-6ed51840a3fe)
+
