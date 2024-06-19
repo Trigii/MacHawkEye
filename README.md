@@ -1,4 +1,4 @@
-![image](https://github.com/Trigii/MacHawkEye/assets/95245480/5acdb392-da29-47b6-a2e9-44af5790587d)# MacHawkEye
+# MacHawkEye
 
 Engine for analyzing binaries on macOS systems to identify potential vulnerabilities
 
