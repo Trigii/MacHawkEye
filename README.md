@@ -6,6 +6,13 @@ Engine for analyzing binaries on macOS systems to identify potential vulnerabili
 
 ## Run the engine
 
+- Install pyimg4
+
+```bash
+pip3 install pyimg4
+# And make sure you have the binary pyimg4 in PATH
+```
+
 - Create a copy of `$HOME/Library/Application Support/com.apple.TCC/TCC.db`. From Terminal with FDA permissions: 
 
 ```bash
