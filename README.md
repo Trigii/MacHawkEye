@@ -13,6 +13,12 @@ pip3 install pyimg4
 # And make sure you have the binary pyimg4 in PATH
 ```
 
+- Install [trustcache](https://github.com/CRKatri/trustcache)
+
+```bash
+Download it from https://github.com/CRKatri/trustcache and put it in the PATH
+```
+
 - Create a copy of `$HOME/Library/Application Support/com.apple.TCC/TCC.db`. From Terminal with FDA permissions: 
 
 ```bash
